@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/public/nginx-puma-zero-time-in-2025/"}
+{"dg-publish":true,"permalink":"/public/nginx-puma-zero-time-in-2025/","title":"Nginx + Puma Zero-Time in 2025"}
 ---
 
 
-```
-title: "Nginx + Puma Zero-Time in 2025"
-show-frontmatter-title: true
-```
+`show-frontmatter-title: true`
 
 This document outlines the necessary steps and configuration changes for NGINX, Puma, and Capistrano to enable zero-downtime deployments.
 
