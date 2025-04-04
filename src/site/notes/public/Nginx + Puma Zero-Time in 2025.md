@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/nginx-puma-zero-time-in-2025/","title":"Nginx + Puma Zero-Time in 2025"}
+{"dg-publish":true,"permalink":"/public/nginx-puma-zero-time-in-2025/","title":"Nginx + Puma Zero-Time in 2025","created":"2025-04-04T09:12:32.401+02:00"}
 ---
 
 
