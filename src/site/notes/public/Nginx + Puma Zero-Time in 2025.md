@@ -3,8 +3,6 @@
 ---
 
 
-`show-frontmatter-title: true`
-
 This document outlines the necessary steps and configuration changes for NGINX, Puma, and Capistrano to enable zero-downtime deployments.
 
 The official Puma documentation and guidelines (as of 2025) are not entirely clear or complete when it comes to zero-downtime deployments. The steps in this guide reflect the most reliable and up-to-date approach, based on real-world debugging of a production application and insights gathered from recent GitHub issues and community discussions.
